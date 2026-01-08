@@ -1,5 +1,4 @@
 ## 🚀 Kubernetes Pods – My Understanding (Beginner Friendly)
-Today, I’m sharing my understanding of Kubernetes Pods and how they are managed in real-world scenarios.
 
 ### 🔹 Types of Pods in Kubernetes
 There are 2 types of Pods in Kubernetes:
