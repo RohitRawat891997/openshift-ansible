@@ -25,6 +25,7 @@ spec:
 ### type-2: Controller-managed Pod
 
 we have 3 types of controller pod in kubernetes.
+
 1. replication Controller
 2. replicaSet Controller
 3. Deployment Controller
