@@ -92,7 +92,7 @@ type of attach secret
   2. mount volume 
 
 
-URL= https://lnkd.in/g8BAYwAc
+URL= https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/
 
 echo -n 'myusername' | base64 -d
 echo -n 'mypassword' | base64 -d
