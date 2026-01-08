@@ -1,6 +1,5 @@
 ## 🚀 Kubernetes Basics – Beginner-Friendly Explanation
 
--- I’m currently revising Kubernetes fundamentals, and here’s a simple and clear overview of how Kubernetes works internally 👇
 
 ## 🔹 What is Kubernetes?
 
