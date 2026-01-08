@@ -111,15 +111,18 @@ spec:
  image: nginx
 ```
  #### What Deployments do
- 
+``` 
 Create & manage ReplicaSets
 Perform rolling updates (zero downtime)
 Rollback to a previous version if something breaks
 Scale up/down based on load
 Pause & resume deployments safely
+```
 
- In short:
+ **In short:**
+ ```
  Never manage ReplicaSets directly
  Always use Deployments for production workloads
 Deployment = full lifecycle management of your app (deploy, update, scale, rollback)
-🚀 Deployment = deploy + update + scale + rollback
+```
+### 🚀 Deployment = deploy + update + scale + rollback
