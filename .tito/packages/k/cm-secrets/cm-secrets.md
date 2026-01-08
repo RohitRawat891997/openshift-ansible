@@ -14,7 +14,7 @@ manifest file (example):
 apiVersion: v1
 kind: ConfigMap
 metadata:
- name: game-demo
+ name: my-config
 data:
  httpd.conf: | 
  <VirtualHost *:80>
@@ -37,7 +37,7 @@ spec:
  volumes:
  - name: foo
  configMap:
- name: web-cm
+ name: my-config
 ```
 
 
